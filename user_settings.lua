@@ -1,6 +1,7 @@
 return {
   ["config"] = {
     ["borderless"] = false,
+    ["line_limit"] = 120,
     ["plugins"] = {
       ["minimap"] = {
         ["caret_color"] = {
