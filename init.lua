@@ -17,7 +17,7 @@ lspconfig.clangd.setup()
 lspconfig.pyright.setup()
 
 -- Launching terminal and file explorer.
-local terminalCommand = "kitty"
+local terminalCommand = "alacritty"
 local fileExplorerCommand = "thunar"
 
 -- Open terminal command.
